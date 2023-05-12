@@ -1,0 +1,15 @@
+.left-login{
+    width:50vw;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.img{
+    width:40vw;
+}
+.left-login > h1{
+    font-size: 25pt;
+    color: #77ffc0;
+}
